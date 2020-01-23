@@ -5,10 +5,10 @@
    ### python(packages)-sqlite3, pandas
 
 
-Run file - app4.py
+<p><b>Run file</b> - app4.py</p>
 		
 
-Sql queries - 
+<h2>Sql queries - </h2>
 
 1. Write a SQL query to find the number of Zomato users.
     SELECT COUNT (userid) FROM user_table
